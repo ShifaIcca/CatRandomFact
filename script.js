@@ -7,7 +7,5 @@ async function api()
         {
             p[i].innerHTML=res.fact
         }
-        const b=document.querySelector(".name")
-        
 }
 api()
